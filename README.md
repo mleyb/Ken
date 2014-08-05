@@ -3,11 +3,11 @@ Ken.js
 
 **Installation**
 
-  # Bower
+  Bower
   
     > bower install Ken
     
-  # NuGet    
+  NuGet    
 
     > install-package Ken
 
