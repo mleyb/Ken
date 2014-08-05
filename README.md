@@ -3,13 +3,13 @@ Ken.js
 
 **Installation**
 
-Bower:
+  # Bower
+  
+    > bower install Ken
+    
+  # NuGet    
 
-bower install Ken
-
-Nuget:
-
-install-package Ken
+    > install-package Ken
 
 **Usage**
 
