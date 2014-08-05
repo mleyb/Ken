@@ -1,10 +1,10 @@
 Ken.js
 ===
 
-#### Installation:
+##### Installation
 
 bower install Ken
 
-#### Usage
+##### Usage
 
 Ken('your css selector').ken();
