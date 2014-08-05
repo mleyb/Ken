@@ -3,11 +3,9 @@
     "version": "1.0.0",
     "main": "Ken.js",
     "ignore": [
-        ".gitignore"
+        ".gitignore",
         "Example.html",
         "bower.json",
         "README.md"
-    ],
-    "dependencies": {
-    },
+    ]
 }
