@@ -1,4 +1,6 @@
-Ken
+Ken.js
 ===
 
-Ken.
+Usage:
+
+Ken('<your css selector>').ken();
