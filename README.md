@@ -3,4 +3,4 @@ Ken.js
 
 Usage:
 
-Ken('<your css selector>').ken();
+Ken('your css selector').ken();
