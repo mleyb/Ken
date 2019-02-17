@@ -1,4 +1,4 @@
-## Ken.js
+# Ken
 
 [![Bower version](https://badge.fury.io/bo/Ken.svg)](https://badge.fury.io/bo/Ken)
 
